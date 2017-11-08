@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <exchanges>
+	<exchange>
+            <name>
+		Exchange 1
+            </name>
+            <url>
+                http:urlquesea.com
+            </url>
+            <apikey>
+		asdasdasd3132asc3
+            </apikey>
+	</exchange>
+    </exchanges>
+</config>
